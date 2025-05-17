@@ -19,10 +19,9 @@ Passionate about age-related diseases driven by somatic mutations, including pan
 
 ## 🔬 Research Interests
 
-* Somatic mutation and cancer genomics
+* Somatic mutations
 * Cancer genomics
 * Neurondegenerative diseases 
-* Somatic mutation association studies
 
 ---
 
