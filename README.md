@@ -5,8 +5,8 @@
 
 ## 👩‍🔬 About Me
 
-Postdoctoral Research Fellow in Boston Children’s Hospital & Harvard Medical School.
-Passionate about somatic mutation research, long-read sequencing technologies, and rare variant association studies.
+Postdoctoral Research Fellow in Boston Childrens Hospital & Harvard Medical School.
+Passionate about age-related diseases induced by somatic mutations, including Pan-cancer and neurodegeneration diseases.
 
 ---
 
