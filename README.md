@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Mengyue Zheng (郑梦月)
+# 👋 Hi, I'm Mengyue Zheng
 
 ## 👩‍🔬 About Me
 
 Postdoctoral Research Fellow at Boston Children’s Hospital and Harvard Medical School.
-Passionate about age-related diseases driven by somatic mutations, including pan-cancer, cancer subtype specificity, and neurodegenerative disorders.
+Passionate about age-related diseases driven by somatic mutations, including pan-cancer, and neurodegenerative disorders.
 
 ---
 
