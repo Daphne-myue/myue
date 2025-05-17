@@ -1,3 +1,6 @@
+:set encoding=utf-8
+:set fileencoding=utf-8
+
 # 👋 Hi, I'm Mengyue Zheng (郑梦月)
 
 ## 👩‍🔬 About Me
